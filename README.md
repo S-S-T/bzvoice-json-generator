@@ -1,9 +1,9 @@
 # How to use
 
--   Quick and dirty json generator that creates a simple json file with category and product associations.
+-   Quick & dirty generator to create a simple json file for BazaarVoice product Reviews associated with Gillette OnDemand.
 
 To run:
 - Clone this repo
 - npm install
 - node index.js
-- Upload bzreviews.json to your favorite online spot.
+- Upload bzreviews.json to www

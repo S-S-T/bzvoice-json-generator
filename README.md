@@ -3,7 +3,7 @@
 - API interface to generate "real-time" BazaarVoice.JSON for Gillette-OnDemand product reviews.
 
 To run:
-- Clone this repo
-- npm install
+- Clone repo
+- run npm install
 - node index.js
-- Upload bzreviews.json to www
+- Upload bzreviews.json to the www

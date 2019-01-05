@@ -1,6 +1,6 @@
 # How to use
 
--   Quick & dirty generator to create a simple json file for BazaarVoice product Reviews associated with Gillette OnDemand.
+- API interface to generate "real-time" BazaarVoice.JSON for Gillette-OnDemand product reviews.
 
 To run:
 - Clone this repo
